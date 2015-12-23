@@ -1,16 +1,25 @@
 - title: "About"
   href: "/about/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Publications"
+  href: "/pubs/"
+  subcategories:
+    - subtitle: "Google Scholar"
+      subhref: "/pubs/google/"
+  
+- title: "Teaching"
+  href: "/teaching/"
+  
+- title: "Outreach"
+  href: "/outreach/"
+  subcategories:
+    - subtitle: "Workshops"
+      subhref: "/outreach/workshops"
+    - subtitle: "High schools"
+      subhref: "/outreach/highschools/"
 
 - title: "CV"
   href: "/cv/"
-
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+  
+- title: "Blog"
+  href: "/blog/"
