@@ -6,7 +6,7 @@ permalink: /pubs/
 
 ### Publications since completing PhD.
 
-
+* math success stories
 * Gimenez, S.T. Buckland, B.J.T. Morgan, N. Bez, S. Bertrand, R. Choquet, S. Dray, M-P. Etienne, R. Fewster, F. Gosselin, B. Merigot, P. Monestiez, J. Morales, F. Mortier, F. Munoz, O. Ovaskainen, S. Pavoine, R. Pradel, F.M. Schurr, L. Thomas, W. Thuiller, V. Trenkel, P. de Valpine, E. Rexstad. 2014. Statistical ecology comes of age. Biology Letters.
 * Winiarski, K., M.L. Burt, E. Rexstad, D. Miller, C. Trocki P.Paton, and S. Williams. 2014. A density surface model of wintering common loons incorporating survey data from aerial and ship-based platforms. The Condor 116:149-161.
 * Miller, D.L., E. Rexstad, M.L. Burt and E. Rexstad. 2013. Spatial models for distance sampling data: recent developments and future directions. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.12105
@@ -46,6 +46,21 @@ permalink: /pubs/
 * Rexstad, E., and D. R. Anderson. 1992. Heterogeneous survival rates of mallards (Anas platyrhynchos). Canadian Journal of Zoology 70:1878-1885.
 * Rexstad, E. 1992. Effect of hunting on the annual survival rate of Canada geese banded in Utah. Journal of Wildlife Management 56(2):295-303. 
 
+* Rexstad, E., D. R. Anderson, and K. P. Burnham. 1991. Lack of sex-selectivity in harvest of mallards under the point system. Journal of Wildlife Management 55(4):586-592.
+* Szymczak, M. and E. Rexstad. 1991. Harvest distribution and survival of a gadwall population. Journal of Wildlife Management 55(4):592-600.
+* Rexstad, E., K.P. Burnham, and D.R. Anderson. 1990. Design and analysis of survival experiments with marked animals: a case study. American Fisheries Society Symposium 7:581-587.
+* Rexstad, E., D. D. Miller, C. H. Flather, E. M. Anderson, J. W. Hupp, and D. R. Anderson. 1990. Questionable multivariate statistical inference in wildlife habitat and community studies a reply. Journal of Wildlife Management 54(1):189-193.
+* Rexstad, E., D.D. Miller, C.H. Flather, E.M. Anderson, J.W. Hupp, and D.R. Anderson. 1988. Questionable multivariate statistical inference in wildlife habitat and community studies. Journal of Wildlife Management 52(4):794-798.
 
+* Bond, C.E., E. Rexstad, and R.M. Hughes. 1988. Habitat use patterns of twenty-five common species of Oregon freshwater fish. Northwest Science 62(5):223-232.
+* Rexstad, E. and D.R. Anderson. 1988. Effect of the point system on redistributing hunting pressure in mallards. Journal of Wildlife Management 52(1):89-94.
+* Hughes, R.M., E. Rexstad, and C.E. Bond. 1987. The relationship of aquatic ecoregions, river basins and physiographic provinces to the ichthyogeographic regions of Oregon. Copeia 1987(2):423-432.
+* Rexstad, E. and E.K. Pikitch. 1986. Stomach contents and estimates of food consumption of Pacific hake (Merluccius productus). Fishery Bulletin 84(4):947-956.
+* Rexstad, E. and G.S. Innis. 1985. Model simplification – Three applications. Ecological Modelling 27(1-2):1-13.
+* Innis, G.S. and E. Rexstad. 1983. Simulation model simplification techniques. Simulation 41(1):7-15.
 
-
+### Unrefereed publications
+* Furtsch, P.R., and E. Rexstad. 1996. Characteristics of a population of Clethrionomys rutilus during an increase and decline. Pages 50-62 in R.H. Meehan, V. Sergienko, and G. Weller (eds.) Bridges of science between North America and the Russian Far East. Proc. of the 45th Arctic Science Conference.
+* Rexstad, E., and K. P. Burnham. 1991. Users' guide for interactive program CAPTURE: Abundance estimation of closed animal populations. Colorado Coop. Fish & Wildl. Res. Unit. 29pp.
+* Rexstad, E. 1988. Computer database and cartographic system for museum collections. Science Software 3(4):295-300.
+* Rexstad, E. 1982. BIRD Model - Version III, Description and Documentation. Dept. of Fisheries and Wildlife Report Series. Utah State University, Logan UT. 74 pp.
