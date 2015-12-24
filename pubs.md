@@ -4,9 +4,47 @@ title: Publications
 permalink: /pubs/
 ---
 
-{% include image.html url="/images/eric-pencil.png" caption="Illinois 2011" width=225 align="right" %}
+### Publications since completing PhD.
 
-### Publications and perhaps a menu link to Scholar
+
+* Gimenez, S.T. Buckland, B.J.T. Morgan, N. Bez, S. Bertrand, R. Choquet, S. Dray, M-P. Etienne, R. Fewster, F. Gosselin, B. Merigot, P. Monestiez, J. Morales, F. Mortier, F. Munoz, O. Ovaskainen, S. Pavoine, R. Pradel, F.M. Schurr, L. Thomas, W. Thuiller, V. Trenkel, P. de Valpine, E. Rexstad. 2014. Statistical ecology comes of age. Biology Letters.
+* Winiarski, K., M.L. Burt, E. Rexstad, D. Miller, C. Trocki P.Paton, and S. Williams. 2014. A density surface model of wintering common loons incorporating survey data from aerial and ship-based platforms. The Condor 116:149-161.
+* Miller, D.L., E. Rexstad, M.L. Burt and E. Rexstad. 2013. Spatial models for distance sampling data: recent developments and future directions. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.12105
+* Buckland, S., M.L. Burt, E. Rexstad, M. Mellor, A.E. Williams and R. Woodward. 2012. Aerial surveys of seabirds: the advent of digital methods. Journal of Applied Ecology 49:960-967.
+* Salgado Kent, C., C. Jenner, M. Jenner, P. Bouchet, and E. Rexstad. 2012. Southern hemisphere breeding stock 'D' humpback whale population estimates from the North West cape, Western Australia. Journal of Cetacean Research and Management 12:29-38.
+* Marques, T.A., S.T. Buckland, D.L. Borchers, E. Rexstad and L. Thomas. 2011. Distance sampling. Pp 398-400 in Lovric, M. (Ed.), International Encyclopedia of Statistical Science, Springer-Verlag, Berlin.
+* Burt, M.L., E. Rexstad, and S.Buckland. 2010. Comparison of design- and model-based estimates of seabird abundance derived from visual, digital still transects and digital video aerial surveys in Carmarthen Bay. COWRIE Ltd. ISBN: 978-0-9565843-1-1.
+* Thomas, L., S.T. Buckland, E. Rexstad, J.L. Laake, S. Strindberg, S.L. Hedley, J.R.B. Bishop, T.A. Marques and K.P. Burnham. 2010. Distance software: design and analysis of distance sampling surveys for estimating population size. Journal of Applied Ecology 47:5-14.
+* Newson, S.E., E. Rexstad, S.R. Baillie, S.T. Buckland, and N.J. Aebischer. 2010. Population changes of avian predators and grey squirrels in England: is there evidence for an impact on avian prey populations? Journal of Applied Ecology 47, 244-252.
+* Burt, M.L., E. Rexstad, and S.Buckland. 2009. Comparison of visual and digital aerial survey results of avian abundance for Round 3, Norfolk Region. COWRIE Ltd. ISBN: 978-0-9561404-6-3
+* Rexstad, E., and S. Buckland. 2009. Comparison of aerial survey methods for estimating abundance of common scoters. Technical Report 2009-1. Centre for Research into Ecological and Environmental Modelling, St. Andrews University.
+* Buckland, S.T., A.J. Plumptre, L. Thomas and E. Rexstad. 2010. Line transect sampling of primates: Can animal-to-observer distance methods work? International Journal of Primatology 31:485-499.
+* Buckland, S.T., A.J. Plumptre, L. Thomas and E. Rexstad. 2010. Design and analysis of line transect surveys for primates. International Journal of Primatology 31:833-847.
+* Rexstad, E. 2007. Point and interval estimates of abundance using multiple covariate distance sampling: An example using great bustards. Technical Report 2007-2, Centre for Research into Ecological and Environmental Modelling, St. Andrews University.
+* Rexstad, E. 2007. Non-uniform coverage estimators for distance sampling. Technical Report 2007-1, Centre for Research into Ecological and Environmental Modelling, St. Andrews University.
+* Schmidt, J.H., E.J. Taylor, and E. Rexstad. 2006. Survival of common goldeneye ducklings in Interior Alaska. Journal of Wildlife Management 70:792-798.
+* Burch, J.W., L.G. Adams, E.H. Follmann, and E. Rexstad. 2005. Evaluation of wolf density estimation from radiotelemetry data. Wildlife Society Bulletin 33:1225-1236.
+* Rexstad, E., and K. Kielland. 2006. Mammalian herbivore population dynamics in the Alaskan boreal forest. Pages 121-132 in F.S. Chapin, M.W. Oswood, K. van Cleve, L.A. Viereck, and D.L. Verbyla (eds.) Alaska's changing boreal forest. Oxford Univ. Press.
+* McDonough, T.J., and E. Rexstad. 2005. Short-term demographic response of the red-backed vole to spruce beetle infestations in Alaska. Journal of Wildlife Management 69:246-254.
+* Schmidt, J.H., E.J. Taylor, and E. Rexstad. 2005. Incubation behaviors and patterns of nest attendance in common goldeneyes in Interior Alaska. Condor 107:167-172.
+* Parmenter, R. R., T. L. Yates, D. R. Anderson, K. P. Burnham, J. L. Dunnum, A. B. Franklin, M. T. Friggens, B. C. Lubo, M. Miller, G. S. Olson, C. A. Parmenter, J. Pollard, E. Rexstad, T. M. Shenk, T. R. Stanley, and G. C. White. 2003. Small-mammal density estimation: a field comparison of grid-based vs. web-based density estimators. Ecological Monographs 73:1-26.
+* Lindberg, M. S. and E. Rexstad. 2001. Capture-recapture sampling designs. In A.H. El-Shaarawi and W.W. Piegorsch (eds.) Encyclopedia of Environmetrics. John Wiley & Sons.
+* Oakley, K. L., E. M. Debevec, and E. Rexstad. 1999. Development of a Long-Term Ecological Monitoring program in Denali National Park and Preserve, Alaska (USA). In C. Aguirre-Bravo & C. R. Franco (Eds.), North American Science Symposium: Toward a unified framework for inventorying and monitoring forest ecosystem resources, (Vol. RMRS-P-12, pp. 307-314). Fort Collins, CO: USDA Forest Service, Rocky Mt. Research Station.
+* Hastings, K.K, J.W. Testa, and E. Rexstad. 1999. Interannual variation in juvenile survival of Weddell seaons in McMurdo Sound, Antarctica: effects of age, sex, and cohort. Journal of Ecology 248:307-324.
+* Zuercher, G. L., D.D. Roby, and E. Rexstad. 1999. Seasonal changes in body mass, composition and organs of northern red-backed voles in interior Alaska. Journal of Mammalogy 80:443-459.
+* Zuercher, G. L., D.D. Roby, and E. Rexstad. 1997. Validation of two new total body electrical conductivity (TOBEC) instruments for estimating body composition of live northern red-backed voles (Clethrionomys rutilus). Acta Theriologica 42:387-398.
+* Kohira, M., and E. Rexstad. 1997. Diets of wolves on Prince of Wales Island, southeastern Alaska. Canadian Field Naturalist 111:429-435.
+* Sedinger, J.S., M.S. Lindberg, E. Rexstad, N. Chelgren, and D.H. Ward. 1997. Testing for handling bias in survival estimation for black brant. Journal of Wildlife Management 61:782-791.
+* Ward, D.H., E. Rexstad, J.S. Sedinger, M.S. Lindberg, and N.K. Dawe. 1997. Seasonal and annual survival of adult Pacific brant. Journal of Wildlife Management 61:773-781.
+* Lindberg, M.S., J.S. Sedinger, and E. Rexstad. 1995. Estimating nest site fidelity of adult female black brant with multistate modeling and geographic information systems. Journal of Applied Statistics 22:725-735.
+* Schmutz, J.A., D.H.Ward, J.S. Sedinger, and E. Rexstad. 1995. Survival estimation and the effects of dependency among animals. Journal of Applied Statistics 22:673-681.
+* Furtsch, P.R., and E. Rexstad. 1994. Characteristics of a population of Clethrionomys rutilus during and increase and decline. Pages 50-62 in R.H. Meehan, V. Sergienko, and G. Weller (eds.) Bridges of science between North America and the Russian Far East. 45th Arctic Science Conference.
+* Rexstad, E. 1994. Detecting differences in wildlife populations across time and space. Pages 219-228 in 59th North American Natural Resource and Wildlife Conference.
+* Sedinger, J. S., and E. Rexstad. 1994. Do restrictive harvest regulations result in higher survival rates in mallards? Reply to Smith and Reynolds (1992) Journal of Wildlife Management 58(3):571-577.
+* Burnham, K. P., and E. Rexstad. 1993. Modeling heterogeneity in survival rates of banded waterfowl. Biometrics 49:1194-1208.
+*  Anderson, D. R., M. A. Wotawa, and E. Rexstad. 1993. Trends in the analysis of recovery and recapture data. Pages 373-386 in J.-D. Lebreton and P. M. North (eds.) The study of bird population dynamics using marked individuals. Birkhauser Verlag Publishers.
+* Rexstad, E., and D. R. Anderson. 1992. Heterogeneous survival rates of mallards (Anas platyrhynchos). Canadian Journal of Zoology 70:1878-1885.
+* Rexstad, E. 1992. Effect of hunting on the annual survival rate of Canada geese banded in Utah. Journal of Wildlife Management 56(2):295-303. 
 
 
 
