@@ -4,13 +4,13 @@ title: University teaching
 permalink: /teaching/
 ---
 
-#### Courses taught at St Andrews University
+### Courses taught at St Andrews University (2005-present)
 * Modelling ecological dynamics MT5752 (5 times)
 * Estimating animal abundance MT5751 (5 times)
 * Statistical modelling MT5753 
 * Computing in statistics MT4113/3607 (5 times)
 
-#### Courses taught at University of Alaska-Fairbanks:
+### Courses taught at University of Alaska-Fairbanks (1991-2005)
 * Wildlife Management Principles (WLF201) (6 times)
 * Wildlife Populations and their Management (WLF410) (7 times)
 * Conservation Biology of Wildlife (WLF693) (with Dan Roby)
@@ -18,13 +18,13 @@ permalink: /teaching/
 * Research Design (BIOL/WLF602) (3 times)
 * Sampling Theory (STAT661) (with P.X. Quang and J. VerHoef)
 
-#### Courses taught at Colorado State University:
+### Courses taught at Colorado State University (1984-1991)
 * Ecology (BY220)
 * Sampling and Analysis of Vertebrate Populations (FW663) (TA)
 
-#### Course taught at Oregon State University:
+### Course taught at Oregon State University (1982-1984)
 * Dynamics of Marine Biological Resources (FW431)
 
-#### Courses taught at Utah State University:
+### Courses taught at Utah State University (1979-1982)
 * Quantitative Analysis for Natural Resource Management (NR360) (TA)
 * Natural Resources and Man (NR101) (TA)
