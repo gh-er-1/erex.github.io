@@ -20,5 +20,7 @@ permalink: /about/
 * I studied for my masters degree at Utah State University studying ecological modelling under George S Innis.
 * I earned a bachelors degree in computer science from Luther College.
 
+A bit of text to show I have modified this page after renaming but on Narwhal.
+
 
 
