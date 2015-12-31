@@ -87,7 +87,7 @@ color: #522d80;
 }
 
 .site-nav .sub-menu a:hover {
-	color: $clemson-orange;
+	color: #0099cc;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
@@ -97,8 +97,8 @@ color: #522d80;
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $clemson-orange;
-	border-right-color: $clemson-orange;
+	border-left-color: #0099cc;
+	border-right-color: #0099cc;
 	border-right: 0px;
 
 }
