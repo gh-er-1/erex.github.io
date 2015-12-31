@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-purple;
+	border-bottom: 4px solid #0099cc;
     min-height: 56px;
     background: #f66733;
     // Positioning context for the mobile navigation icon
@@ -157,7 +157,7 @@ z-index:999;
 
     .page-link {
         color: #ffffff;
-    background: $clemson-orange;
+    background: #0099cc;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
