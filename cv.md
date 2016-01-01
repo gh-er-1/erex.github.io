@@ -4,7 +4,7 @@ title: Curriculum Vita
 permalink: /cv/
 ---
 
-[My CV](rexstad-cv.pdf)
+[My CV](../rexstad-cv.pdf)
 
 <!--
 [PDF of CV](https://drive.google.com/open?id=0B0px4lodnQN7OHdrU3RaS2hrZ2s)
