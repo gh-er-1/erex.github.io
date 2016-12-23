@@ -6,8 +6,11 @@ permalink: /pubs/
 
 ### Publications since completing PhD.
 
-* math success stories
-* Gimenez, S.T. Buckland, B.J.T. Morgan, N. Bez, S. Bertrand, R. Choquet, S. Dray, M-P. Etienne, R. Fewster, F. Gosselin, B. Merigot, P. Monestiez, J. Morales, F. Mortier, F. Munoz, O. Ovaskainen, S. Pavoine, R. Pradel, F.M. Schurr, L. Thomas, W. Thuiller, V. Trenkel, P. de Valpine, E. Rexstad. 2014. Statistical ecology comes of age. Biology Letters.
+* Miller, D.L., E. Rexstad, L. Thomas, L. Marshall, J. Laake. submitted. Distance Sampling in R. J. Stat. Soft. currently on bioRxiv. doi: https://doi.org/10.1101/063891
+* Williams, R. E. Ashe, J. Moore, R. Reeves, E. Rexstad. submitted. Animal counting toolkit: a practical guide to small-boat surveys for estimating abundance of coastal marine mammals. Endangered Species Research.
+* Marques, T.A., L. Thomas, M. Kery, S.T. Buckland, D.L. Borchers, E. Rexstad, R. Fewster, D.I. Mackenzie, J.A. Royle and G. Guillera-Arroita, C. Handel, D. Pavlacky and R. Camp. submitted. Model-based approaches to deal with detectability: a comment on Hutto (2016). Ecological Applications.
+* Buckland, S.T., E. Rexstad, L. Thomas, and D.L. Borchers. 2016. Distance sampling surveys of population size: Enabling better decision-making by wildlife managers. pp. 45-51 in: Aston, P.J., Mulholland, A.J., Tant, K.M.M. (Eds.), UK Success Stories in Industrial Mathematics. Springer International Publishing. DOI: 10.1007/978-3-319-25454-8_6.
+* Gimenez, S.T. Buckland, B.J.T. Morgan, N. Bez, S. Bertrand, R. Choquet, S. Dray, M-P. Etienne, R. Fewster, F. Gosselin, B. Merigot, P. Monestiez, J. Morales, F. Mortier, F. Munoz, O. Ovaskainen, S. Pavoine, R. Pradel, F.M. Schurr, L. Thomas, W. Thuiller, V. Trenkel, P. de Valpine, E. Rexstad. 2014. Statistical ecology comes of age. Biology Letters 10(12).
 * Winiarski, K., M.L. Burt, E. Rexstad, D. Miller, C. Trocki P.Paton, and S. Williams. 2014. A density surface model of wintering common loons incorporating survey data from aerial and ship-based platforms. The Condor 116:149-161.
 * Miller, D.L., E. Rexstad, M.L. Burt and E. Rexstad. 2013. Spatial models for distance sampling data: recent developments and future directions. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.12105
 * Buckland, S., M.L. Burt, E. Rexstad, M. Mellor, A.E. Williams and R. Woodward. 2012. Aerial surveys of seabirds: the advent of digital methods. Journal of Applied Ecology 49:960-967.

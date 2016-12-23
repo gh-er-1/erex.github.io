@@ -6,9 +6,9 @@ permalink: /teaching/
 
 ### Courses taught at St Andrews University (2005-present)
 * Modelling ecological dynamics MT5752 (5 times)
-* Estimating animal abundance MT5751 (5 times)
+* Estimating animal abundance MT5751 (6 times)
 * Statistical modelling MT5753 
-* Computing in statistics MT4113/3607 (5 times)
+* Computing in statistics MT4113/3607 (6 times)
 
 ### Courses taught at University of Alaska-Fairbanks (1991-2005)
 * Wildlife Management Principles (WLF201) (6 times)
