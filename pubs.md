@@ -4,8 +4,9 @@ title: Publications
 permalink: /pubs/
 ---
 
-### Publications since completing PhD.
+### Publications 
 
+* Schmidt, J.H., E.A. Rexstad, C.A. Roland, C.L. McIntyre, M.C. MacCluskie, and M.J. Flamme. 2017. Weather-driven change in primary productivity explains variation in the amplitude of two herbivore population cycles in a boreal system. Oecologia, November, 1–12. https://doi.org/10.1007/s00442-017-4004-3.
 * Buckland, S.T., D.L. Miller and E. Rexstad. submitted. Distance sampling. Chapter 6 in Quantitative analyses in wildlife science. L. Brennan, B. Marcot and A. Tri (eds). To be published by Johns Hopkins University Press.
 * Miller, D.L., E. Rexstad, L. Thomas, L. Marshall, J. Laake. submitted. Distance Sampling in R. J. Stat. Soft. currently on bioRxiv. doi: https://doi.org/10.1101/063891
 * Williams, R. E. Ashe, K. Gaut, R. Gryba, J. Moore, E. Rexstad, D. Sandilands, J. Steventon, R. Reeves. 2017. Animal counting toolkit: a practical guide to small-boat surveys for estimating abundance of coastal marine mammals. Endangered Species Research 34:149-165. doi: https://doi.org/10.3354/esr00845
